@@ -1,6 +1,6 @@
 <template>
-    <div>
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="pb-5">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
             <div class="container-md">
                 <router-link class="navbar-brand" to="/"
                     >Shopping Cart with Vue</router-link
